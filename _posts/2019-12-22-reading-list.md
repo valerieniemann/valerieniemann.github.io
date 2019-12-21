@@ -10,8 +10,8 @@ Here's a snapshot of some of the books that passed through my read queue this ye
 
 My 2019 Book List
 ------
-The Art of Non-Fiction
-Atlas Shrugged
-Becoming
-Komisch, alles chemisch!
+The Art of Non-Fiction  
+Atlas Shrugged  
+Becoming  
+Komisch, alles chemisch!  
 
