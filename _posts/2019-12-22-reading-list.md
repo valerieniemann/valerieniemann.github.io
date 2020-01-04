@@ -14,7 +14,7 @@ My 2019 Book List
 -
 *Becoming* by Michelle Obama  
 -
-*Komisch, alles chemisch!* by Mai-Thi Nguyen-Kim, Ph.D. 
+*Komisch, Alles Chemisch!* by Mai-Thi Nguyen-Kim, Ph.D. 
 -
 *Misbehaving: The Making of Behavioral Economics* by Richard Thaler, Ph.D.
 -
