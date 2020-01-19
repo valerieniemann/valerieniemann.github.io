@@ -30,7 +30,7 @@ My 2019 Book List
 
 #### Why do humans deviate from rational behavior? What have classical economic models missed in their underlying assumptions? Thaler asked these questions as a Ph.D. student, and they led to the conception of *behavioral economics*. He tells the story of the birth of the field, and how it holds promise to help populations make good decisions, as related in an earlier book *Nudge*. Most noticeable to me was Thaler's persistence in the presence of dissent. He and the early behavioral economists believed in their ideas, maintaing them in the face of rejection from renowned scholars in the field. I am glad that they stuck with it. 
 #### I actually made a list of cognitive biases that Thaler describes in developing some tenants of behavioral economics. I have seen them come into play in research, and I want to be able to identify them if they come to bias my decision-making and work: 
-#### 1. Overcondidence - manifesting in overpromising more than is likely
+#### 1. Overconfidence - overpromising more than is possible to achieve
 #### 2. Winner's curse - in auctioning, the winnter overvalues the object being sold
 #### 3. False consensus affect - people think that other share their preferences; they project their biases onto others
 #### 4. Present bias - people tend to wnat instant gratification; something one can have "now" is worth more than having it later. 
