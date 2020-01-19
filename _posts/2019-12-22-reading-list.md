@@ -37,6 +37,8 @@ My 2019 Book List
 
 ## *The Litte Book of Talent* by David Coyle
 
+#### I read this in anticipation of the skills I will be learning in graduate school. It is a short read, comprising of 52 tips to learn a new skill. I'll go ahead and list a few tips that particularly spoke to me. Coyle starts out with "studying the very best" performers and mimicking them. For me, I think about this tip when I'm reading publications of researchers that I really look up to. "How can these experiments be used in my own work?" Another tip was: "Don't fall for the prodigy myth. Early success is a weak predictor of long-term success." I think this also falls in line with the "growth mindset." Just because I might start from a different background from a person with seemingly "innate talent", I know that I can learn and grow my own talent. Finally, I liked the tip to "pay attention immediately after you make a mistake. Take mistakes seriously but never personally." I acknowledge that I make many mistakes on a dailly basis, but studying them and learning from them is key to correcting them. As you can see, this is a highly practical and immediately-employable work!
+
 ## *Atlas Shrugged* by Ayn Rand
 
 #### I should note at this point why Rand pops up on my reading list twice; there is a website, freeobjectivistbooks.org, that will send free books to students. Nothing comes truly for free, so I would encourage critical thinking when reading these books or any others. 
