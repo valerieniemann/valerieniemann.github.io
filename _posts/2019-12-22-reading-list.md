@@ -32,6 +32,9 @@ My 2019 Book List
 
 ## *Playing the Game: The Streetsmart Guide to Graduate School* by Fredrick Frank, Ph.D., Karl Stein Ph.D.
 
+#### This is an old, slightly raunchy manual to getting the graduate degree. If I detached myself from some of the borderline-sexist jokes, I could focus on some good advice that it provided -- but let this forewarn anyone interested in reading the book. I appreciated the advice on how to keep on track amongst the distractions. Classes, politics, and your own level of self-motivation may get in the way of getting that diploma, but you can define goals to filter out the noise and work "smart." In regards to classes, it suggests that they should be taken as a means to flesh out your thesis. If there's a class that will help you do a literature review for your research topic, then take it! It also provides an invaluable section with different professor and student caricatures, and some suggestions with how to deal with those personality types. 
+####  The more general statements that have stuck with me, weeks after reading the book, include:"Nobody Cares About Your Degree" and "The Longer You Stay, the Weirder You Become." In graduate school, you are master of your destiny, and you are the one that cares most about your degree. This should provide an extra impetus to define your own goals and find ways to achieve them. The ultimate goal is to "get the [heck] out." You are there to get the degree, which implies that you have contributed valuable knowledge to science and become an expert in your field (as measured by quality of your publications and conference presentations). So this should always be the aim of your trajectory. 
+
 ## *The Litte Book of Talent* by David Coyle
 
 ## *Atlas Shrugged* by Ayn Rand
