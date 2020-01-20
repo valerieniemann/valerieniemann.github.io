@@ -33,7 +33,7 @@ My 2019 Book List
 #### 1. Overconfidence - overpromising more than is possible to achieve
 #### 2. Winner's curse - in auctioning, the winnter overvalues the object being sold
 #### 3. False consensus affect - people think that other share their preferences; they project their biases onto others
-#### 4. Present bias - people tend to wnat instant gratification; something one can have "now" is worth more than having it later. 
+#### 4. Present bias - people tend to want instant gratification; something that one can have "now" is worth more than having it later. 
 #### 5. Confirmation bias - humans want to look for confirming rather than disconfirming evidence
 #### 6. Endowment effect - people want to keep what they already have rather than gain value. They are more willing to risk to avoid loss than risk to gain. 
 
