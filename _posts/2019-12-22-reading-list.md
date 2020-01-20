@@ -36,7 +36,7 @@ My 2019 Book List
 #### 4. Present bias - people tend to wnat instant gratification; something one can have "now" is worth more than having it later. 
 #### 5. Confirmation bias - humans want to look for confirming rather than disconfirming evidence
 #### 6. Endowment effect - people want to keep what they already have rather than gain value. They are more willing to risk to avoid loss than risk to gain. 
-####
+
 #### One final nugget of advice that he gives to young professionals and graduate students: "When your opportunity costs are low, it pays to take risks and speak up." 
 
 ## *Playing the Game: The Streetsmart Guide to Graduate School* 
