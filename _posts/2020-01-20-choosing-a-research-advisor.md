@@ -26,8 +26,8 @@ Choosing a research advisor...
 - **Support students on the job-hunt.** Where do students end up after they graduate? I tend to favor a healthy balance of academia and industry. It indicates that students can pursue their own career interests while receiving support from the faculty member. 
 - **Typically has students who graduate on time.** This time-span varies for different fields. Research other groups in the same field for a fair comparison. 
 - **Gives consistent feedback and goals.** Advisers are busy people, and sometimes they forget what they say. If emotions get involved, then it's game-over for your happiness and growth. If your adviser often flips how he or she feels about your project, you may experience a lot of stress and insecurity.  
--**Has respect of the group members.** Talk to the students in the group that you're joining. No advisor (or student for that matter) is perfect, but talking to members will expose characteristics that you either appreciate or want to shy away from. 
--**Connects with you through good rapport.** You should be able to be open and talk to your adviser about topics even beyond the science. You should not be afraid of your adviser, but you should maintain a close respect for him or her. 
+- **Has the respect of the group members.** Talk to the students in the group that you're joining. No advisor (or student for that matter) is perfect, but talking to members will expose characteristics that you either appreciate or want to shy away from. 
+- **Connects with you through good rapport.** You should be able to be open and talk to your adviser about topics even beyond the science. You should not be afraid of your adviser, but you should maintain a close respect for him or her. 
 
 
 ### Research group
