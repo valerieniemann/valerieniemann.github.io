@@ -15,11 +15,11 @@ Choosing a research advisor...
 
 ### Research advisor
 #### 1. Your advisor should be a good researcher. The reason you *came* to graduate school is to do research, so naturally, you will want to work with someone who can guide you towards your goal. How can a lowly first-year grad student discern the characteristics of a good researcher? There are some small indicators. A good researcher:
--Asks important questions. I have attended many group meetings of different groups, and I've always noted the types of questions the PIs ask. There are advisors that are adept at pointing out weaknesses in evidence to state a claim. They often give suggestions for improvement. Other good questions I've heard have led to discussions to clarify scientific concepts or interpret data, leaving the whole room to go "aha!". 
--Publishes in good journals. This isn't an end-all be-all requirement if it's not there--some advisors are just starting out, and they have to start someone! It is typically a postive sign, however. I have a set of journals that I've loved to read over my undergrad research experiences, so I'm quite partial to advisors that publish in them. 
--Has been awarded grants. This researcher can communicate the value of his/her research and support your work. You would do well to learn this skill from them. 
--Has a good reputation with other faculty and people in the field. Have you asked your undergraduate mentors about your potential adviser? 
--All this to say, faculty that are more advanced in their career may have a leg-up on the above criteria. Do not shy away from a young faculty member who can alot time for you and understands the latest lab techniques. In fact, young faculty members tend to excel in the next criterion: 
+- Asks important questions. I have attended many group meetings of different groups, and I've always noted the types of questions the PIs ask. There are advisors that are adept at pointing out weaknesses in evidence to state a claim. They often give suggestions for improvement. Other good questions I've heard have led to discussions to clarify scientific concepts or interpret data, leaving the whole room to go "aha!". 
+- Publishes in good journals. This isn't an end-all be-all requirement if it's not there--some advisors are just starting out, and they have to start someone! It is typically a postive sign, however. I have a set of journals that I've loved to read over my undergrad research experiences, so I'm quite partial to advisors that publish in them. 
+- Has been awarded grants. This researcher can communicate the value of his/her research and support your work. You would do well to learn this skill from them. 
+- Has a good reputation with other faculty and people in the field. Have you asked your undergraduate mentors about your potential adviser? 
+- All this to say, faculty that are more advanced in their career may have a leg-up on the above criteria. Do not shy away from a young faculty member who can alot time for you and understands the latest lab techniques. In fact, young faculty members tend to excel in the next criterion: 
       -
 #### 2. Your advisor should be a good mentor. 
 
