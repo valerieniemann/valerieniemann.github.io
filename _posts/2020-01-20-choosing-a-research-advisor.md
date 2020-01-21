@@ -29,9 +29,22 @@ Choosing a research advisor...
 - **Has the respect of the group members.** Talk to the students in the group that you're joining. No advisor (or student for that matter) is perfect, but talking to members will expose characteristics that you either appreciate or want to shy away from. 
 - **Connects with you through good rapport.** You should be able to be open and talk to your adviser about topics even beyond the science. You should not be afraid of your adviser, but you should maintain a close respect for him or her. 
 
-
 ### Research group
+#### 1. Productive
+-**Publishing well**
+-**Internships**
+#### 2. Healthy 
+-**Many collaborative projects within and outside the group**
+-**Group members choose to hang out with each other outside of work.**
+-**Group members have outside interests**
 
 ### Research area 
+#### 1. Interests you
+-**Typical, daily work**
+-**Addressing a bigger problem or fundamental question that excites you*
+-**You can read the publications in the field without losing interest**
+#### 2. Translates well to a job 
+-**You've identified companies, post-docs, or fellowship opportunities that are feasible after researching in this area**
+-**Has a larger community that you can be a part of--helps if you identify role models in that community whose work you are excited about**
 
 ####  Decision made? If yes, then congrats! If not, then keep gathering information until you do. Once it's done, you can forget about those other options. The next step after the decision is to forge ahead, learn from your mistakes, and make the best of every situation,  while knowing that you did the legwork to set-up your future career!
