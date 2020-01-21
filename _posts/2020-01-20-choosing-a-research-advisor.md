@@ -27,4 +27,4 @@ Choosing a research advisor...
 
 ### Research area 
 
-####  Decision made? If yes, then congrats! If not, then keep gathering information until you do. Once it's done, you can forget about those other options. The next step is to forge full-throttle ahead, learn from your mistakes, and make the best of every situation, knowing that you did the legwork to set-up your future career!
+####  Decision made? If yes, then congrats! If not, then keep gathering information until you do. Once it's done, you can forget about those other options. The next step after the decision is to forge ahead, learn from your mistakes, and make the best of every situation,  while knowing that you did the legwork to set-up your future career!
