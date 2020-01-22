@@ -40,10 +40,12 @@ Choosing a research advisor...
 ### 1. You will become "like" your research group. Your senior graduate students will train you on lab equipment. They will likely proofread your fellowship applications and papers. You will watch their presentations, and they will evaluate your first presentations. For this reason, you want group members who are productive. Productive group members:
 - **Publish well.** They can give you tips on what it takes to start writing papers. They can provide solidarity over tough reviewers. They form a strong network to fall back on. You can trust them to do experiments if you need their field of expertise.
 - **Seek opportunities.** See if they pursue internships in industry, fellowships, or professional development programs. You'll see that similar opportunities will be possible for you. 
+
 ### 2. More importantly than productive, you want to join a group that is internally healthy. Group members demonstrate healthy dynamics when they: 
 - **Engage in collaborative projects within and outside the group.** Again, look for a healthy balance. I recently heard a snippet about another group whose members *only want to collaborate outside the group* because they are afraid that their own lab members will steal their work. Alert! 
 - **Choose to hang out outside of work.** This is a great sign--apparently the group members can't get enough of each other!
 - **Have outside interests.** This is a sign of group members' independence. They can set their own schedule, get things done in lab, and hone another highly-valued skill or hobby. 
+
 ### 3. Questions to consider: 
 - Are there diverse backgrounds in the group?
 - How big is the group? 
@@ -56,9 +58,11 @@ Choosing a research advisor...
 - **Addressing a bigger problem or fundamental question that excites you.** What motivates you to be a scientist? What have you been curious about? You can choose a problem to solve or you can investigate a phenomenon (the classic applied/fundamental divide). Most research topics can include both types of studies. 
 - **Involving compatible day-to-day responsibilities.** If you want to cure cancer but get squeamish at the sight of blood, your research career might not pan out. I typically ask group members what the "most annoying" part of their work is. For making colloidal nanocrystal, it's the irreproducibility of the synthesis after years of working on it. For 2D material scientists, it's maintaing a firm grasp of really thin flakes with tweezers. For computational and theoretical folks, it's sitting down at a computer all day. Know the types of work you will have to do on a daily basis, and make sure it is tolerable to you. 
 - **Capturing your focus when reading literature.** I have found that I can understand most literature in materials science, but some topics just do not interest me. I can tell by how my attention wanders. The literature that interests me, on the other hand, has me furiously scribbling notes and looking up terms that I do not understand. You need to be able to read literature in your field for inspiration, ideas, and growth of expertise. 
+
 ### 2. You want a research topic that will translate to a job. The topic has a higher chance of leading to a job if you find: 
 - **Companies, post-docs, or fellowship opportunities that logically follow.** It is never too early to consider what you want to do for a career. 
 - **A larger community around the topic** Who are the experts in the field, your role-models, whose work you like to read and propagate? Is it possible to visit their group? Will they speak at your university or attend the same conference as you? Learn from these role-models. Did the students who came before you get jobs? Your discipline community can provide a direction to employment after you get your Ph.D.
+
 ### 3. Questions to consider:
 - What problem do you want to solve?
 - Which area of fundamental science interests you?
