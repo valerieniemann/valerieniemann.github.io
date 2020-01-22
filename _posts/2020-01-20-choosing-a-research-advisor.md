@@ -67,7 +67,7 @@ Choosing a research advisor...
 ###  Decision made? If yes, then congrats! If not, then keep gathering information for as long as your program allows. Once the deadline comes and you make the decision, you can forget about those other options for advisors/groups/topics. Now is the time to forge ahead, learn from your mistakes, and make the best of every situation, knowing that you did the legwork to set-up your future career.
 
 ### References and Further Reading: 
--*Getting What You Came For: the Smart Student's Guide to Earning a Master's or Ph.D.* by Robert Peters, Ph.D.
--*Playing the Game: The Streetsmart Guide to Graduate School* by Fredrick Frank, Ph.D., Karl Stein, Ph.D.
--*How to Pick a Graduate Advisor*, Neuron, Volume 80, Issue 2, 2013, Pages 275-279, by Ben Barres, Ph.D.
--"What matters in a Ph.D. adviser? Here’s what the research says" *Science Careers*, by Katie Langin
+- *Getting What You Came For: the Smart Student's Guide to Earning a Master's or Ph.D.* by Robert Peters, Ph.D.
+- *Playing the Game: The Streetsmart Guide to Graduate School* by Fredrick Frank, Ph.D., Karl Stein, Ph.D.
+- "How to Pick a Graduate Advisor," Neuron, Volume 80, Issue 2, 2013, Pages 275-279, by Ben Barres, Ph.D.
+- "What matters in a Ph.D. adviser? Here’s what the research says," *Science Careers*, by Katie Langin
