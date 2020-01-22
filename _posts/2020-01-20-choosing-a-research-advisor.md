@@ -15,7 +15,7 @@ Choosing a research advisor...
 
 ### Research advisor
 #### 1. Your advisor should be a good researcher. The reason why you *came* to graduate school was to do research, so naturally, you want to work with someone who can guide you towards your goal. How can a fresh, new first-year grad student discern the characteristics of a good researcher? There are some small indicators. A good researcher:
-- **Asks important questions.** I have attended many group meetings, and I always note the types of questions that the advisor asks. There are advisors that use great questions to expose weaknesses in scientific evidence, followed by suggestions for improvement. Other good questions I've heard have led to discussions to clarify scientific concepts or interpret data, leaving the whole room to go "aha!" 
+- **Asks important questions.** I have attended many group meetings, and I always note the types of questions that the advisor asks. There are advisors that use great questions to expose weaknesses in scientific evidence, followed by suggestions for improvement. Other good questions have led to discussions to clarify scientific concepts or interpret data, leaving the whole room to go "aha!" 
 - **Publishes in good journals.** This isn't a strict requirement--some advisors are just starting, and they have to start somewhere! It is typically an added bonus. I have a set of journals that I've enjoyed reading over my undergrad research experiences, so I'm leaning towards choosing an advisor that publishes in them. 
 - **Gets grants.** This researcher can communicate the value of his/her research, often to people outside the field. He or she can financially support your work. You should strive to learn this skill. 
 - **Has a good reputation with other faculty and people in the field.** Have you asked your undergraduate mentors about your potential advisor? 
@@ -27,16 +27,16 @@ Choosing a research advisor...
 - **Typically has students who graduate on time.** This time-span varies for different fields. Research other groups in the same field for a fair comparison. 
 - **Gives consistent feedback and goals.** Advisors are busy people, and sometimes they forget what they say. Aim for consistent feedback most of the time. If emotions get involved, however, then it's game-over for your happiness and growth. If your advisor often flips between angry and pleased with your project, you may experience a lot of stress and insecurity.  
 - **Has the respect of the group members.** Talk to the students in the group that you're joining. No advisor (or student for that matter) is perfect, but talking to members will expose characteristics that you either appreciate or want to avoid. 
-- **Connects with you through good rapport.** You should be able to be open and talk to your advisor about topics even beyond the science. You should not be afraid of your advisor, but you should maintain a close respect for him or her. 
+- **Establishes rapport with you.** You should be able to be open and talk to your advisor about topics even beyond the science. You should not be afraid of your advisor, but you should maintain a close respect for him or her. 
 
 ### Research group
-#### 1. You will become "like" your research group. Your senior graduate students will be training you on lab technique. They may proofread your fellowship applications or papers. After you see many of their presentations, they will see many of your presentations and give you their feedback. For this reason, you want group members who are productive. Productive group members:
-- **Publish well.** They can give you tips on the types of experiments it took to get ot manuscript stage and how to start writing papers. They can provide solidarity over tough reviewers. They form a strong network to fall back on. You can trust them to do experiments for you if you need their field of expertise (and reverse!)
-- **Seek opportunities** Whether it is internships in industry, fellowships, professional development programs, you can compare notes on growing experiences outside of the lab. 
-#### 2. More important than outwardly productive, you want to join a group that is internally healthy. Healthy group dynamics can manifest as group members: 
-- **Engaging in collaborative projects within and outside the group.** Good work begets good work--internal healthy dynamics often mean other groups are happy to collaborate. 
-- **Choosing to hang out outside of work.** This is a great sign--apparently the group members love each other so much that 8 hours isn't enough!
-- **Having outside interests** This is a sign of group member independence. He or she can set her own schedule, get things done in lab, and then hone another highly-valued skill or hobby. 
+#### 1. You will become "like" your research group. Your senior graduate students will train you on lab equipment. They will likely proofread your fellowship applications and papers. You will watch their presentations, and they will evaluate your first presentations. For this reason, you want group members who are productive. Productive group members:
+- **Publish well.** They can give you tips on what it takes to start writing papers. They can provide solidarity over tough reviewers. They form a strong network to fall back on. You can trust them to do experiments if you need their field of expertise.
+- **Seek opportunities.** See if they pursue internships in industry, fellowships, or professional development programs. You'll see that similar opportunities could be possible for you. 
+#### 2. More importantly than productive, you want to join a group that is internally healthy. Group members demonstrate healthy dynamics when they: 
+- **Engage in collaborative projects within and outside the group.** Good work begets good work--internal healthy dynamics often mean that other groups are happy to collaborate. 
+- **Choose to hang out outside of work.** This is a great sign--apparently the group members can't get enough of each other!
+- **Have outside interests** This is a sign of group members' independence. They can set their own schedule, get things done in lab, and hone another highly-valued skill or hobby. 
 
 ### Research area 
 #### 1. Interests you
