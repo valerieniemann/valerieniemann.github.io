@@ -29,11 +29,11 @@ Choosing a research advisor...
 - **Typically has students who graduate on time.** This time-span varies for different fields. Research other groups in the same field for a fair comparison. 
 - **Gives consistent feedback and goals.** Advisors are busy people, and sometimes they forget what they say. Aim for consistent feedback *most of the time*. If emotions get involved, however, then it's game-over for your happiness and growth. If your advisor often flips between angry and pleased with your project, you may experience a lot of stress and insecurity.  
 - **Has the respect of the group members.** Talk to the students in the group that you're joining. No advisor (or student for that matter) is perfect, but talking to members will expose characteristics that you either appreciate or want to avoid. 
-- **Establishes rapport with you.** You should be able to be open and talk to your advisor about topics even beyond the science. You should not be afraid of your advisor, but you should maintain a close respect for him or her. 
+- **Establishes rapport with you.** You should be able to be open to your advisor about topics even beyond the science. You should not be afraid of your advisor, but you should maintain a close respect for him or her. 
 
 ### 3. Hands-on vs. hands-off questions to consider: 
 - Do you like constant, direct feedback? 
-- Do you tend to have your own direction?
+- Do you tend to have your own direction? 
 - How often do you want to meet with your advisor? 
 
 ## Research group
