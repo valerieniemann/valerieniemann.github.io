@@ -74,4 +74,4 @@ Choosing a research advisor...
 - *Getting What You Came For: the Smart Student's Guide to Earning a Master's or Ph.D.* by Robert Peters, Ph.D.
 - *Playing the Game: The Streetsmart Guide to Graduate School* by Fredrick Frank, Ph.D., Karl Stein, Ph.D.
 - "How to Pick a Graduate Advisor," Neuron, Volume 80, Issue 2, 2013, Pages 275-279, by Ben Barres, Ph.D.
-- "What matters in a Ph.D. adviser? Here’s what the research says," *Science Careers*, by Katie Langin
+- "What matters in a Ph.D. adviser? Here’s what the research says," *Science Careers*, by Katie Langin 
