@@ -38,13 +38,15 @@ Choosing a research advisor...
 - **Choose to hang out outside of work.** This is a great sign--apparently the group members can't get enough of each other!
 - **Have outside interests** This is a sign of group members' independence. They can set their own schedule, get things done in lab, and hone another highly-valued skill or hobby. 
 
-### Research area 
-#### 1. Interests you
-- **Typical, daily work**
-- **Addressing a bigger problem or fundamental question that excites you*
-- **You can read the publications in the field without losing interest**
-#### 2. Translates well to a job 
-- **You've identified companies, post-docs, or fellowship opportunities that are feasible after researching in this area**
-- **Has a larger community that you can be a part of--helps if you identify role models in that community whose work you are excited about**
+### Research topic
+#### 1. You want a research topic that interests you. Okay, work becomes work, and by year three, no matter what you choose, it might start to get stale. Everyone experiences this a bit differently. But the initial excitement about the topic sparks the motivation to learn the field and get experiments underway. The topic should interest you by:
+- **Addressing a bigger problem or fundamental question that excites you.** What has affected you in the past? What motivates you to be a scientist? What have you been curious about? You can choose a problem to solve or you can investigate a phenomenon: the classic applied/fundamental divide. Most research topics can include both types of studies. 
+- **Involving compatible day-to-day responsibilities** If you want to cure cancer but get squeamish at living things, your research career might pan out. I typically ask group members what the "most annoying" part of their field is. For colloidal nanocrystal syntheses, it's the irreproducibility of the synthesis after years of working on it. For some 2D material scientists, it's having a firm grasp of really thin flakes with tweezers. For computational and theoretical folks, it's sitting down at a computer all day. Know the types of work you will have to do on a daily basis, and make sure it is tolerable to you. 
+- **Capturing your focus when reading literature** I have found that I can understand most literature in materials science, but some topics just do not interest me. I can tell by how my attention wanders. The literature that interests me, on the other hand, has me furiously scribbling notes and looking up terms that I do not understand. 
+#### 2. You want a research topic that will translate to a job. The topic has a higher chance of leading to a job if you find: 
+- **companies, post-docs, or fellowship opportunities that logically follow a PhD in this topic.** It is never too early to consider what you want to do for a career. 
+- **A larger community around the topic** Who are the experts in the field, your role-models, whose work you like to read and propagate? Is it possible to visit their group? Will they speak at your university or attend the same conference as you? Learn from these role-models. Do you have peers that you like to interact with, also studying similar topics? Your community will give you direction to employment after you get your Ph.D.
 
-####  Decision made? If yes, then congrats! If not, then keep gathering information until you do. Once it's done, you can forget about those other options. The next step after the decision is to forge ahead, learn from your mistakes, and make the best of every situation,  all while knowing that you did the legwork to set-up your future career!
+
+
+####  Decision made? If yes, then congrats! If not, then keep gathering information until you do. Once it's done, you can forget about those other options for advisors/groups/topics. The next step after **The Big Decision* is to forge ahead, learn from your mistakes, and make the best of every situation,  all while knowing that you did the legwork to set-up your future career!
