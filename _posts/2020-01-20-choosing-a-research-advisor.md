@@ -7,9 +7,9 @@ tags:
 ---
 Choosing a research advisor...
 ------
-... means choosing a research group and topic simultaneously. We will handle the three choices separately. 
+### ... means choosing a research group and topic simultaneously. We will handle the three choices separately. 
 
-## But first, some background:
+## First, some background:
 ### I am a first-year graduate student. It is January. By March, I will commit my labor to one advisor, one research group, and one area of expertise. Millenial *gamophobia* (fear-of-commitment) aside, this is quite a difficult decision. It sets the trajectory of my career, determines the people I will interact with professionally, and concentrates my efforts into one domain. Advice regarding this decision is seldom specific because the process is unique to each individual. My favorite recent advice: "This is the biggest decision of your graduate career, but really, no pressure." 
 ### As an aspiring researcher, I like to gather information to make informed decisions. As a closet philosopher, I believe that knowledge defeats fear. Here is the research I've gathered on the topic to help myself and others in a similar position. 
 
@@ -50,4 +50,4 @@ Choosing a research advisor...
 - **A larger community around the topic** Who are the experts in the field, your role-models, whose work you like to read and propagate? Is it possible to visit their group? Will they speak at your university or attend the same conference as you? Learn from these role-models. Did the students who came before you get jobs? Your community will give you direction to employment after you get your Ph.D.
 
 
-###  Decision made? If yes, then congrats! If not, then keep gathering information until you do. Once it's done, you can forget about those other options for advisors/groups/topics. The next step after **The Big Decision** is to forge ahead, learn from your mistakes, and make the best of every situation,  all while knowing that you did the legwork to set-up your future career!
+###  Decision made? If yes, then congrats! If not, then keep gathering information until you do. Once it's done, you can forget about those other options for advisors/groups/topics. The next step after **The Big Decision** is to forge ahead, learn from your mistakes, and make the best of every situation, knowing that you did the legwork to set-up your future career!
