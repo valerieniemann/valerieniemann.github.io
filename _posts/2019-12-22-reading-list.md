@@ -8,7 +8,7 @@ tags:
 
 Here's a snapshot of some of the books that passed through my read queue this year.
 
-My 2019 Book List
+My 2019 Reading List
 ------
 ## *The Art of Non-fiction* by Ayn Rand 
 
