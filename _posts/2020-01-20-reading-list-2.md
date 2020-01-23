@@ -1,6 +1,6 @@
 ---
 title: 'Choosing a Research Advisor'
-date: 2019-01-20
+date: 2020-01-20
 permalink: /posts/2020/01/reading-list-2/
 tags:
   - books
