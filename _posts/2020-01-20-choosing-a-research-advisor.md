@@ -5,9 +5,9 @@ permalink: /posts/2020/01/research-advisor/
 tags:
   - graduate school
 ---
-Choosing a research advisor...
+
+Choosing a research advisor... means choosing a research group and topic simultaneously. Here we will walk through the three choices separately. 
 ------
-### ... means choosing a research group and topic simultaneously. We will handle the three choices separately. 
 
 ## First, some background:
 ### I am a first-year graduate student. It is January. By March, I will commit my labor to one advisor, one research group, and one area of expertise. Millenial *gamophobia* (fear-of-commitment) aside, this is quite a difficult decision. It sets the trajectory of my career, determines the people I will interact with professionally, and concentrates my efforts into one domain. Advice regarding this decision is seldom specific because the process is unique to each individual. My favorite recent advice is as follows: "This is the biggest decision of your graduate career, but really, no pressure." 
