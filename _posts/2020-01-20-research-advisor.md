@@ -1,9 +1,9 @@
 ---
 title: 'Choosing a Research Advisor'
 date: 2020-01-20
-permalink: /posts/2020/01/reading-list-2/
+permalink: /posts/2020/01/research-advisor/
 tags:
-  - books
+  - school
 ---
 
 Here's a snapshot of some of the books that passed through my read queue this year.
