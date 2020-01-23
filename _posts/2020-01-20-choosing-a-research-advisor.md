@@ -1,7 +1,7 @@
 ---
 title: 'Choosing a Research Advisor'
 date: 2020-1-20
-permalink: /posts/2019/12/research-advisor/
+permalink: /posts/2020/01/research-advisor/
 tags:
   - graduate school
 ---
