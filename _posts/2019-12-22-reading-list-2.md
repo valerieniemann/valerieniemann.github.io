@@ -1,5 +1,5 @@
 ---
-title: 'My 2019 Reading List 2'
+title: 'Choosing a Research Advisor'
 date: 2019-12-22
 permalink: /posts/2019/12/reading-list-2/
 tags:
