@@ -55,9 +55,26 @@ Choosing a Research Advisor
 #### That being said, I do agree with Ayn Rand that this is her masterpiece. She heralds the creativity and striving of the individual mind, and she depicts what the world would look like if great minds went on strike. Politics aside, the characters Dagny Taggart, Henry Rearden, and John Galt, strangely show many characteristics of a successful grad student or even start-up founder: extreme dedication to the task, persistence in the face of all obstacles, and integration of the mind and body as one being. Another concept that stood out to me was the ability to do tasks quickly and efficiently for the enjoyment of life. 
 #### Perhaps my favorite scene is when Dagny Taggart pilots a plane to chase down renegade John Galt, the brilliant inventor of a motor running on atmospheric static electricity (okay, we will let go of scientific rigor for a second). Talk about dedication to scientific progress. 
 
-## *Shantaram* by Gregory David Roberts 
+## Research topic
+### 1. You want a research topic that interests you. Okay, work becomes work, and by year three, no matter what you choose, it might start to get stale. Everyone experiences this a bit differently. But the initial excitement about the topic sparks the motivation to learn the field and get experiments underway, so make sure you *love* your initial topic and project. These should interest you by:
+- **Addressing a bigger problem or fundamental question that excites you.** What motivates you to be a scientist? What have you been curious about? You can choose a problem to solve or you can investigate a phenomenon (the classic applied/fundamental divide). Most research topics can include both types of studies. 
+- **Involving compatible day-to-day responsibilities.** If you want to cure cancer but get squeamish at the sight of blood, your research career might not pan out. I typically ask group members what the "most annoying" part of their work is. For making colloidal nanocrystal, it's the irreproducibility of the synthesis after years of working on it. For 2D material scientists, it's maintaing a firm grasp of really thin flakes with tweezers. For computational and theoretical folks, it's sitting down at a computer all day. Know the types of work you will have to do on a daily basis, and make sure it is tolerable to you. 
+- **Capturing your focus when reading literature.** I have found that I can understand most literature in materials science, but some topics just do not interest me. I can tell by how my attention wanders. The literature that interests me, on the other hand, has me furiously scribbling notes and looking up terms that I do not understand. You need to be able to read literature in your field for inspiration, ideas, and growth of expertise. 
 
-#### Based on a true story, this novel features a heroin addict, turned bank-robber, turned inmate in an Australian jail, who broke out and escaped to India. Hiding out in Mumbai, he learned Marathi, worked for the mafia, and appeared in a couple Bollywood films. Eventually he participated in guerilla wars in Afghanistan. When his mafia boss died, he became a freelancing smuggler, which led to his capture in Germany. He began writing *Shantaram* while finishing his prison sentence in Australia, where 300-400 paged manuscripts were destroyed *twice* by prison guards. This work is truly a slice of humanity to experience. 
-#### *Based on a true story* -- 
-#### I am ever-so-curious to find out to what extent. This work reads like an action novel, but it is based on the life events of author Gregory David Roberts. Apparently I am not alone. Many have posed the question to Roberts, with the response: "Some experiences from my life are described pretty much as they happened, and others are created narratives, informed by my experience. I wanted to write two or three novels on some bare elements from my life, allowing me to explore the themes that interested me, while keeping the narrative immediate by anchoring it to some of my real experiences. They’re novels, not autobiographies, and all of the characters and dialogue is created. It doesn’t matter how much of it is true or not to me, it’s how true they are to all of us, and to our common humanity." 
+### 2. You want a research topic that will translate to a job. The topic has a higher chance of leading to a job if you find: 
+- **Companies, post-docs, or fellowship opportunities that logically follow.** It is never too early to consider what you want to do for a career. 
+- **A larger community around the topic** Who are the experts in the field, your role-models, whose work you like to read and propagate? Is it possible to visit their group? Will they speak at your university or attend the same conference as you? Learn from these role-models. Did the students who came before you get jobs? Your discipline community can provide a direction to employment after you get your Ph.D.
+
+### 3. Questions to consider:
+- What problem do you want to solve?
+- Which area of fundamental science interests you?
+- Where do you want to be in five years?
+
+###  Decision made? If yes, then congrats! If not, then keep gathering information for as long as your program allows. Once the deadline comes and you make the decision, you can forget about those other options for advisors/groups/topics. Now is the time to forge ahead, learn from your mistakes, and make the best of every situation, knowing that you did the legwork to set-up your future career.
+
+### References and further reading: 
+- *Getting What You Came For: the Smart Student's Guide to Earning a Master's or Ph.D.* by Robert Peters, Ph.D.
+- *Playing the Game: The Streetsmart Guide to Graduate School* by Fredrick Frank, Ph.D., Karl Stein, Ph.D.
+- "How to Pick a Graduate Advisor," Neuron, Volume 80, Issue 2, 2013, Pages 275-279, by Ben Barres, Ph.D.
+- "What matters in a Ph.D. adviser? Here’s what the research says," *Science Careers*, by Katie Langin 
 
