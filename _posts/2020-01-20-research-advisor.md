@@ -6,9 +6,9 @@ tags:
   - school
 ---
 
-Here's a snapshot of some of the books that passed through my read queue this year.
+Choosing a research advisor means choosing a research group and topic simultaneously. Here we will walk through the three choices separately.
 
-My 2019 Reading List
+Choosing a Research Advisor
 ------
 ## *The Art of Non-fiction* by Ayn Rand 
 
