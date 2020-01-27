@@ -80,4 +80,3 @@ As an aspiring researcher, I like to gather information to make informed decisio
 - *Playing the Game: The Streetsmart Guide to Graduate School* by Fredrick Frank, Ph.D., Karl Stein, Ph.D.
 - "How to Pick a Graduate Advisor," Neuron, Volume 80, Issue 2, 2013, Pages 275-279, by Ben Barres, Ph.D.
 - "What matters in a Ph.D. adviser? Here’s what the research says," *Science Careers*, by Katie Langin 
-
