@@ -42,4 +42,3 @@ The Buzz Around Accelerators
 #### [15] 	Henstridge et. al, "Synchrotron radiation from an accelerating light pulse," *Science*, vol. 362, no. 6413, pp. 439-442, 2018
 #### [16] 	Sapra et.al, "On-chip integrated laser-driven particle accelerator," *Science*, vol. 367, no. 6473, pp. 79-83, 2020.
 
-
