@@ -26,21 +26,21 @@ The Buzz Around Accelerators
 
 ### References
 
-#### [1] 	Griffiths, D.J., Introduction to Electrodynamics, 4 ed., Cambridge University Press, 2013. 
-#### [2] 	 Zaia et al, "Molecular Level Insight into Enhanced n-Type Transport in Solution-Printed Hybrid Thermoelectrics," Advanced Energy Materials, vol. 9, no. 13, pp. 1-11, 2019.
-#### [3] 	Loiudice et. al, "Universal Oxide Shell Growth Enables in Situ Structural Studies of Perovskite Nanocrystals during the Anion Exchange Reaction," Journal of the American Chemical Society, 2019.
-#### [4] 	Norry et. al, "Monoenergetic beams of relativistic electrons from intense laser–plasma interactions," Nature, vol. 431, no. 7008, pp. 535-538, 2004. 
-#### [5] 	Toth et al, "High-quality electron beams from a laser wakefield accelerator using plasma-channel guiding," Nature, vol. 431, no. 7008, pp. 538-541, 2004.
-#### [6] 	Wu et al, "2018 Symposium on VLSI Circuits Digest of Technical Papers A 0 . 04mm 3 16nW Wireless and Batteryless Sensor System with Integrated Cortex-M0 + Processor and Optical Communication for Cellular Temperature Measurement," Symposium on VLSI Circuits Digest of Technical Papers, pp. 2012-2013, 2018. 
-#### [7] 	Hooker, "Developments in laser-driven plasma accelerators," Nature Photonics, vol. 7, no. 10, pp. 775-782, 2013.
-#### [8] 	Gonsalves et. al, "Petawatt Laser Guiding and Electron Beam Acceleration to 8 GeV in a Laser-Heated Capillary Discharge Waveguide," Physical Review Letters, vol. 122, no. 8, p. 84801, 2019. 
-#### [9] 	Schlenvoigt et. al, "A compact synchrotron radiation source driven by a laser-plasma wakefield accelerator," Nature Physics, vol. 4, no. 2, pp. 130-133, 2008. 
-#### [10] 	Steinke et. al, "Multistage coupling of independent laser-plasma accelerators," Nature, vol. 530, no. 7589, pp. 190-193, 2016. 
-#### [11] 	Yamamoto et. al, "Protein microcrystallography using synchrotron radiation," IUCrJ, vol. 4, no. September 2016, pp. 529-539, 2017. 
-#### [12] 	Stone et. al, "Transformation from crystalline precursor to perovskite in PbCl2-derived MAPbI3," Nature Communications, vol. 9, no. 1, 2018.. 
-#### [13] 	Protesescu et. al, "Dismantling the "Red Wall" of Colloidal Perovskites: Highly Luminescent Formamidinium and Formamidinium-Cesium Lead Iodide Nanocrystals," ACS Nano, vol. 11, no. 3, pp. 3119-3134, 2017.  
-#### [14] 	Weng et. al, "Active sites of copper-complex catalytic materials for electrochemical carbon dioxide reduction," Nature Communications, vol. 9, no. 1, pp. 1-9, 2018. 
-#### [15] 	Henstridge et. al, "Synchrotron radiation from an accelerating light pulse," Science, vol. 362, no. 6413, pp. 439-442, 2018
-#### [16] 	Sapra et.al, "On-chip integrated laser-driven particle accelerator," Science, vol. 367, no. 6473, pp. 79-83, 2020.
+#### [1] 	Griffiths, D.J., *Introduction to Electrodynamics*, 4 ed., Cambridge University Press, 2013. 
+#### [2] 	 Zaia et al, "Molecular Level Insight into Enhanced n-Type Transport in Solution-Printed Hybrid Thermoelectrics," *Advanced Energy Materials*, vol. 9, no. 13, pp. 1-11, 2019.
+#### [3] 	Loiudice et. al, "Universal Oxide Shell Growth Enables in Situ Structural Studies of Perovskite Nanocrystals during the Anion Exchange Reaction," *Journal of the American Chemical Society*, 2019.
+#### [4] 	Norry et. al, "Monoenergetic beams of relativistic electrons from intense laser–plasma interactions," *Nature*, vol. 431, no. 7008, pp. 535-538, 2004. 
+#### [5] 	Toth et al, "High-quality electron beams from a laser wakefield accelerator using plasma-channel guiding," *Nature*, vol. 431, no. 7008, pp. 538-541, 2004.
+#### [6] 	Wu et al, "2018 Symposium on VLSI Circuits Digest of Technical Papers A 0 . 04mm 3 16nW Wireless and Batteryless Sensor System with Integrated Cortex-M0 + Processor and Optical Communication for Cellular Temperature Measurement," *Symposium on VLSI Circuits Digest of Technical Papers*, pp. 2012-2013, 2018. 
+#### [7] 	Hooker, "Developments in laser-driven plasma accelerators," *Nature Photonics*, vol. 7, no. 10, pp. 775-782, 2013.
+#### [8] 	Gonsalves et. al, "Petawatt Laser Guiding and Electron Beam Acceleration to 8 GeV in a Laser-Heated Capillary Discharge Waveguide," *Physical Review Letters*, vol. 122, no. 8, p. 84801, 2019. 
+#### [9] 	Schlenvoigt et. al, "A compact synchrotron radiation source driven by a laser-plasma wakefield accelerator," *Nature Physics*, vol. 4, no. 2, pp. 130-133, 2008. 
+#### [10] 	Steinke et. al, "Multistage coupling of independent laser-plasma accelerators," *Nature*, vol. 530, no. 7589, pp. 190-193, 2016. 
+#### [11] 	Yamamoto et. al, "Protein microcrystallography using synchrotron radiation," *IUCrJ*, vol. 4, no. September 2016, pp. 529-539, 2017. 
+#### [12] 	Stone et. al, "Transformation from crystalline precursor to perovskite in PbCl2-derived MAPbI3," *Nature Communications*, vol. 9, no. 1, 2018.. 
+#### [13] 	Protesescu et. al, "Dismantling the "Red Wall" of Colloidal Perovskites: Highly Luminescent Formamidinium and Formamidinium-Cesium Lead Iodide Nanocrystals," *ACS Nano*, vol. 11, no. 3, pp. 3119-3134, 2017.  
+#### [14] 	Weng et. al, "Active sites of copper-complex catalytic materials for electrochemical carbon dioxide reduction," *Nature Communications*, vol. 9, no. 1, pp. 1-9, 2018. 
+#### [15] 	Henstridge et. al, "Synchrotron radiation from an accelerating light pulse," *Science*, vol. 362, no. 6413, pp. 439-442, 2018
+#### [16] 	Sapra et.al, "On-chip integrated laser-driven particle accelerator," *Science*, vol. 367, no. 6473, pp. 79-83, 2020.
 
 
