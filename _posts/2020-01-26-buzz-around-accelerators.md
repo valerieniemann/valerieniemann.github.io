@@ -10,7 +10,7 @@ tags:
 
 Here's why I geek out about particle accelerators.
 
-------
+======
  
 The Buzz Around Accelerators
 ------
