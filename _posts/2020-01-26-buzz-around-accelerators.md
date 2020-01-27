@@ -3,7 +3,6 @@ title: 'The Buzz Around Accelerators'
 date: 2020-01-26
 permalink: /posts/2020/01/buzz-around-accelerators/
 tags: 
-
 ---
 
 Here's why I geek out about particle accelerators: 
