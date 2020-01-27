@@ -10,7 +10,7 @@ Why I geek out about particle accelerators:
 
 The Buzz Around Accelerators
 ------
-### What do alternative energy and modern medicine have in common? Besides being pivotal to the advancement of society, they are vast research areas using synchrotron radiation at the forefront.
+## What do alternative energy and modern medicine have in common? Besides being pivotal to the advancement of society, they are vast research areas using synchrotron radiation at the forefront.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I learned about synchrotron radiation when I started my undergraduate physics minor, as my professor began scribbling electrodynamics equations on the blackboard.  She described how charged particles emit electromagnetic radiation when they accelerate. At high particle rotational velocities, the resultant emission is high energy X-rays, also known as synchrotron radiation. The X-rays have similar energies of the electrons around an atom, and their wavelengths are comparable to the distance between atoms in a solid material. For this reason, she explained, we can study the chemical environment and structure of a material through the way it absorbs and scatters the X-rays. These studies occur at a synchrotron, a circular facility that accelerates  charged particles, using a large radius of particle path to achieve higher X-ray energies, therefore greater detail in which we can study new materials [1].
 
