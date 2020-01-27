@@ -8,8 +8,9 @@ tags:
 
 Why I geek out about particle accelerators:
  
-The Buzz Around Accelerators
+
 ------
+
 ## What do alternative energy and modern medicine have in common?
 Besides being pivotal to the advancement of society, they are vast research areas using synchrotron radiation at the forefront.
 
