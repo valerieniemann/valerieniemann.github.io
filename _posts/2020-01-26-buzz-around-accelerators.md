@@ -9,12 +9,10 @@ tags:
 ---
 
 Here's my experience with traditiona particle accelerators and the developments to come. 
-
+------
 The Buzz Around Accelerators
 ------
-## What do alternative energy and modern medicine have in common? Besides behing pivotal to the advancement of society, they are vast research areas uing *synchrotron radiation* experiments at the forefront.
-
-####  
+## What do alternative energy and modern medicine have in common? Besides behing pivotal to the advancement of society, they are vast research areas uing *synchrotron radiation* experiments at the forefront. 
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I learned about synchrotron radiation when I started my undergraduate physics minor, as my professor began scribbling electrodynamics equations on the blackboard.  She described how charged particles emit electromagnetic radiation when they accelerate. At high particle rotational velocities, the resultant emission is high energy X-rays, also known as synchrotron radiation. The X-rays have similar energies of the electrons around an atom, and their wavelengths are comparable to the distance between atoms in a solid material. For this reason, she explained, we can study the chemical environment and structure of a material through the way it absorbs and scatters the X-rays. These studies occur at a synchrotron, a circular facility that accelerates  charged particles, using a large radius of particle path to achieve higher X-ray energies, therefore greater detail in which we can study new materials [1].
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unknown to me at the time, synchrotron radiation would become a key experimental component on my quest for developing materials for alternative energy applications. A few months after the physics course, I started to work at the Lawrence Berkeley National Laboratory (LBNL), home to the first particle accelerator ever built. Our group used synchrotron radiation from LBNL’s synchrotron to understand the structure of novel, flexible, thermoelectric materials, for applications such as using human body heat to power medical devices [2]. More recently, I joined a team of researchers to conduct experiments at the European Synchrotron Research Facility in Grenoble, France. Using in-situ X-ray diffraction, we watched reactions involving optically-active, highly-fluorescing materials known as perovskites. These experiments helped study a way that perovskite nanocrystals, a promising yet often unstable material, could be stabilized for use in devices such as next-generation solar cells [3].
