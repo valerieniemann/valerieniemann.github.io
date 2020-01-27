@@ -1,7 +1,7 @@
 ---
 title: 'The Buzz Around Accelerators'
 date: 2020-01-26
-permalink: /posts/2019/12/buzz-around-accelerators/
+permalink: /posts/2020/01/buzz-around-accelerators/
 tags:
   - accelerators
 ---
