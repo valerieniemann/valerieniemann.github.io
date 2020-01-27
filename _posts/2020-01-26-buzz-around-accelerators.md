@@ -8,8 +8,8 @@ tags:
   - materials science
 ---
 
-Here's my experience with traditiona particle accelerators and the developments to come. 
-------
+Here's why I geek out about particle accelerators. 
+
 The Buzz Around Accelerators
 ------
 ## What do alternative energy and modern medicine have in common? Besides behing pivotal to the advancement of society, they are vast research areas uing *synchrotron radiation* experiments at the forefront. 
