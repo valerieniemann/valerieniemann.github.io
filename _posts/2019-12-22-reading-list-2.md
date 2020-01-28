@@ -1,14 +1,14 @@
 ---
-title: 'My 2019 Reading List 2'
-date: 2019-12-22
-permalink: /posts/2019/12/reading-list-2/
+title: 'The Buzz Around Accelerators'
+date: 2020-01-26
+permalink: /posts/2020/01/buzz-around-accelerators/
 tags:
-  - books
+  - accelerators
 ---
 
-Here's a snapshot of some of the books that passed through my read queue this year.
+Why I geek out about particle accelerators.
 
-My 2019 Reading List
+The Buzz Around Accelerators
 ------
 ## *The Art of Non-fiction* by Ayn Rand 
 
