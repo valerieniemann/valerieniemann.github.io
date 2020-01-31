@@ -7,7 +7,7 @@ tags:
   - school
 ---
 
-Choosing a research advisor means choosing a research group and topic simultaneously. Here we will walk through the three choices separately.
+Choosing a research advisor means simultaneously choosing a research group and topic. Here we will walk through the three choices separately.
 
 Choosing a Research Advisor
 ------
