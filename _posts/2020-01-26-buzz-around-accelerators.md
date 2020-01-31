@@ -20,7 +20,7 @@ The Buzz Around Accelerators
 <p>
  <img width="224" height="400" img src="https://github.com/valerieniemann/valerieniemann.github.io/blob/master/images/val_ALS.jpg" alt="dominating_sets_example2"/>
     <br>
-    <em> Advanced Light Source at the Lawrence Berkeley National Laboratory</em>
+    <em> At the Advanced Light Source</em>
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While I enjoyed conducting and learning from experiments at the synchrotron beamlines, I experienced some of the drawbacks of traditional synchrotrons. For example, they are difficult to access, with overbooked X-ray beamlines; fortunate research groups can conditionally use them once or twice a year. If the synchrotron experiments do not work, the group must wait another several months or a year to attempt them again. The synchrotrons are gargantuan, and accordingly, expensive to build and maintain. Synchrotron data acquisition is often the bottleneck to proving and publishing new discoveries. Lastly, we may have reached our traditional synchrotron size and energy limit [4,5].
