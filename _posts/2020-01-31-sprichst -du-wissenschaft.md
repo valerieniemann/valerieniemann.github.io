@@ -10,9 +10,3 @@ This is how learning foreign languages has shaped my scientific studies and rese
 
 Sprichst Du Wissenchaft? Do you speak science? 
 ------
-Outline
-
-1. Studies
-2. Research
-3. Going forward
-3. Bigger picture
