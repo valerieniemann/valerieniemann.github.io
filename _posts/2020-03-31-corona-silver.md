@@ -23,3 +23,11 @@ We are in a crisis. What should we do in the time of crisis? We stay informed, w
     <br>
     </p>
 
+This chart portrays some of the responses to these times, especially on the internet: in the headlines, tweets, Facebook posts, and addresses to the nation. The uncertainty elicits various responses. There are people who feel paralyzed with the confirmed-case counts; there are ambitious professionals counting every minute of the commute that they can now put towards their work. There are people, even leaders, in denial. 
+
+I’ve identified with each point on this chart in my knowledge of the coronavirus and how it will impact the future. I find myself rolling back and forth between “There’s more to this than I thought” and “Trust me, it’s complicated.” I’m not overly anxious in my day-to-day life, and I’m not a hyper-productive, hyper-performing human-being. Some days I feel lonely and uncertain. I recognize, however, that social-distancing has afforded me edifying lifestyle changes—and if I can enjoy them, I believe others can too. I will go through these changes in different areas of my life and provide the resources that may help others. 
+
+<p align = "center">
+ <img src="https://github.com/valerieniemann/valerieniemann.github.io/blob/master/images/control.jpg"/>
+    <br>
+    </p>
