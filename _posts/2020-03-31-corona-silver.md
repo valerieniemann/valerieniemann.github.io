@@ -95,6 +95,9 @@ I am an experimentalist graduate student without a lab. What the shelter-in-plac
 
 ## Areas for Improvement
 These times aren’t easy. Distraction is real. I spend time on social media and news websites, scrolling through headlines, checking the number of new cases everyday, and anxiously waiting for the coronavirus curve to level. In writing this, I feel fortunate for the privileges that I have and the ability to make improvements in my lifestyle.  
-With this gratitude, I want to give back to my online and geographical communities. I would like to find ways to combat COVID-19, whether it is through donations, emotional-support, data-manipulation, or other methods. One major way is through solidarity, so I would like to know how your life has been impacted during this time and positive habits you've developed. Lastly, have you found ways to contribute to efforts against COVID-19? What are ways we can help from our shelter-in-place? 
+
+With this gratitude, I want to give back to my online and geographical communities. One major way is through solidarity in our social distancing-- I would like to know more about you. How has your life has been impacted during this time? Are there positive habits you've developed?  
+
+I am still brainstorming other ways to combat COVID-19, whether it is through charity donations, emotional-support, cases data-analysis, etc. Have you found ways to contribute to efforts against COVID-19? What are ways we can help as we shelter-in-place? 
 
 
