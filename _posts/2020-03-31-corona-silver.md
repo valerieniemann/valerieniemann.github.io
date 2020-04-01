@@ -42,38 +42,35 @@ Understanding what I can control has led me to make positive steps towards well-
 
 ### Mental Health Resources: 
 
--	Developing your own self-care plan: http://socialwork.buffalo.edu/resources/self-care-starter-kit/developing-your-self-care-plan.html
--	Short article about breathing for quick relief: https://www.health.harvard.edu/staying-healthy/take-a-deep-breath
--	Woebot, an app that uses Cognitive Behavioral Therapy and AI to mitigate anxious and depressed thoughts through text messages to an AI robot
-- Why we procrastinate: http://nautil.us/issue/9/time/why-we-procrastinate
-- Why wait? The science bheind procrastination: https://www.psychologicalscience.org/observer/why-wait-the-science-behind-procrastination
-- *The Feeling Good Handbook* by David Burns https://www.amazon.com/Feeling-Good-Handbook-Plume/dp/0452261740
+- [Developing your own self-care plan:](http://socialwork.buffalo.edu/resources/self-care-starter-kit/developing-your-self-care-plan.html)
+- [Short article about breathing for quick relief:](https://www.health.harvard.edu/staying-healthy/take-a-deep-breath)
+- [Woebot](https://woebot.io/), an app that uses Cognitive Behavioral Therapy and AI to mitigate anxious and depressed thoughts through text messages to an AI robot
+- [Why we procrastinate](http://nautil.us/issue/9/time/why-we-procrastinate)
+- [Why wait? The science behind procrastination:](https://www.psychologicalscience.org/observer/why-wait-the-science-behind-procrastination)
+- [*The Feeling Good Handbook* by David Burns](https://www.amazon.com/Feeling-Good-Handbook-Plume/dp/0452261740) has a few chapters on procrastination
 
 ## Financial Well-being
 
-I am very fortunate in this time to have the financial support of my graduate program. I can rely on regular payments and have enough for the essentials. Meanwhile, social-distancing has removed the temptation of going to cafes. Often, going to a café after working a full day gives me the extra boost to finish an extra piece of work. Or, if there’s a piece of work I’ve been putting off, I find a small walk on a street to a café to be enough mind-clearing preparation before intense concentration on that task. I have, alas, quit this habit and saved tens of dollars per week. My main expense these days is food, and I do not like to frequent the frenzied supermarkets. I shop once per week, thus I keep a tight control of my budget without really trying.
-
-Budgeting worksheet:
-https://docs.google.com/spreadsheets/d/1Nl-eRuL6yISxyTTURjdU6V54t92MiJBlkQZPuXCLlvg/edit?usp=sharing
+I am very fortunate in this time to have the financial support of my graduate program. I can rely on regular payments and have enough for the essentials. Meanwhile, social-distancing has removed the temptation of going to cafes. Often, going to a café after working a full day gives me the extra boost to finish an extra piece of work. Or, if there’s a piece of work I’ve been putting off, I find a small walk on a street to a café to be enough mind-clearing preparation before intense concentration on that task. I have, alas, quit this habit and saved tens of dollars per week. My main expense these days is food, and I do not like to frequent the frenzied supermarkets. I shop once per week, thus I keep a tight control of my budget without really trying-- with the help of this [budget worksheet](https://docs.google.com/spreadsheets/d/1Nl-eRuL6yISxyTTURjdU6V54t92MiJBlkQZPuXCLlvg/edit?usp=sharing). 
 
 This affords me the ability to do 2 things: 1). I have budgeted a new, <$15 kitchen appliance each week. 2). I can donate extra change to charities. Some of my favorite are the following: 
-- https://www.feedingamerica.org/
-- https://www.mealsonwheelsamerica.org/
-- https://www.homelessshelterdirectory.org/contact.html
+- [Feeding America](https://www.feedingamerica.org/) has been mobilizing food banks to deliver to those suffering from food-scarcity in these times. 
+- [Meals on Wheels](https://www.mealsonwheelsamerica.org/) has been targeting elder populations, at the highest risk from contracting COVID-19. 
+- [This directory](https://www.homelessshelterdirectory.org/contact.html) can be used to find shelters in your area. 
 
 ## Physical Well-being
 These times encourage prepare every meal. Some of my favorite dishes have been the following: 
-- Baked Sweet Potato with Moroccan Lentils https://www.acouplecooks.com/moroccan-sweet-potatoes-with-lemon-tahini-dressing/
-- Seared Tilapia with Spiralized Zucchini https://www.womansday.com/food-recipes/food-drinks/recipes/a54833/seared-tilapia-with-spiralized-zucchini-recipe/
--Venezuelan Arepas with Chicken and Avocado https://www.panningtheglobe.com/reina-pepiada-arepas-chicken-avocado/
-- Homemade Boba Tea https://healthynibblesandbits.com/how-to-make-bubble-tea/
+- [Baked Sweet Potato with Moroccan Lentils](https://www.acouplecooks.com/moroccan-sweet-potatoes-with-lemon-tahini-dressing/)
+- [Seared Tilapia with Spiralized Zucchini](https://www.womansday.com/food-recipes/food-drinks/recipes/a54833/seared-tilapia-with-spiralized-zucchini-recipe/)
+- [Venezuelan Arepas with Chicken and Avocado](https://www.panningtheglobe.com/reina-pepiada-arepas-chicken-avocado/)
+- [Homemade Boba Tea](https://healthynibblesandbits.com/how-to-make-bubble-tea/)
 
 Palo Alto has been little parks sprinkled throughout the neighborhoods. As you travel in the direction of the Pacific, the sprawling suburbs turn into nature preserves. Every few days, I have been visiting a different preserve by bike and then hiking to views of the Bay and the Pacific Ocean. My goal is to bike to Half-Moon Bay over the next couple weeks. 
 
 In addition, many places are offering online exercise classes. I have taken advantage of free classes at Yogasource and have listed some other places: 
--	https://yogasource.com/
--	https://touchstoneclimbing.com/fitness-live/
--	https://watch.lesmillsondemand.com/free-content?fbclid=IwAR0rgaloxIREDMeUdtENIhC2yQDj2UDp2hF9fo4g79cFC-CSEnTajxQCmKk
+- [Yogasource](https://yogasource.com/) provides online courses-- sometimes these are free 
+- [Touchstone climbing](https://touchstoneclimbing.com/fitness-live/) has been offering free yoga courses. 
+- [Les Mills](https://watch.lesmillsondemand.com/free-content?fbclid=IwAR0rgaloxIREDMeUdtENIhC2yQDj2UDp2hF9fo4g79cFC-CSEnTajxQCmKk) offers a free month-long trial of several different workout videos. 
 
 ## Relational Well-being
 It is strange time where everyone, regardless of socio-economic class and age, is doing pretty much the same thing. This means all of my immediate and distant relatives and friends are at their home and plenty available for a call. 
@@ -81,15 +78,15 @@ It is strange time where everyone, regardless of socio-economic class and age, i
 	As mentioned earlier, I have scheduled regular social-distance walks with friends. Plenty of fellow graduate students remain in the area, and I have enjoyed checking in with them, seeing what new stay-at-home hobbies they have acquired, and hearing how they have adjusted their research plans to make the most of these times. In fact, I have even found new parks in Palo Alto in this way. 
 	Finally, I am connected to a fabulous “off-campus” housing program. We have come together for activities like assembling flower arrangements with Matilde’s Bloombox, starting a book club with “Bad Blood”, and even cooking together through Zoom. Other friends have started some online Catan games. 
 Online activities with your friends: 
-- https://matildasbloombox.com/
-- https://www.instructables.com/class/Cooking-Class/
-- https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/
-- https://catanuniverse.com/
+- [Matilda's Bloombox](https://matildasbloombox.com/) delivers flowers from local farms and growers and then provides information on how to arrange them. 
+- [Learn how to cook with friends](https://www.instructables.com/class/Cooking-Class/) with this free-online instructable. 
+- [Jackbox](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/) has many fun games to play remotely with your friends. 
+- [Play Catan online](https://catanuniverse.com/) and don't worry about preserving your game on a tabletop if you need to take a pause. 
 
 ## Work Well-being
-For work well-being, I’ve established boundaries. I work according to routine hours, and I allow myself plenty breaks. I have allocated a “work-space” that is not in my bedroom. I have inherited a “standing-desk” apparatus, but I have also seen fashion their own out of textbooks or boxes. The daily check-ins with my labmates give us opportunity to check in with each other and share strategies for productivity. My favorite is the “pomodoro method,” which we’ve done while on Zoom. It entails concentrating on a task for 25 minutes, then taking a 5 minute break, and then repeating. 
+For work well-being, I’ve established boundaries. I work according to routine hours, and I allow myself plenty breaks. I have allocated a “work-space” that is not in my bedroom. I have inherited a “standing-desk” apparatus, but I have also seen fashion their own out of textbooks or boxes. The daily check-ins with my labmates give us opportunity to share strategies for productivity. My favorite is the “pomodoro method,” which we’ve done while on Zoom. It entails concentrating on a task for 25 minutes, then taking a 5 minute break, and then repeating. 
 	I am an experimentalist graduate student without a lab. What this time affords me is many hours to analyze and interpret data, read papers in my field, and think deeply about my project. These times have also brought to my attention the power and versatility of modeling—about to start attempting some calculations to support my research. 
-- https://francescocirillo.com/pages/pomodoro-technique
+- [Pomodoro method](https://francescocirillo.com/pages/pomodoro-technique) to maximize productivity. 
 
 ## Areas for Improvement
 These times aren’t easy. Distraction is real. I spend lots of time on social media and news websites, scrolling through headlines, checking the number of new cases everyday, and looking for the curve to level-off. Yet in writing this, I feel very fortunate for the privileges that I have and the ability to make improvements in my lifestyle. I would like to help the efforts against COVID-19—and I’m open to suggestions for how. 
