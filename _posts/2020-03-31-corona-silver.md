@@ -57,9 +57,9 @@ Budgeting worksheet:
 https://docs.google.com/spreadsheets/d/1Nl-eRuL6yISxyTTURjdU6V54t92MiJBlkQZPuXCLlvg/edit?usp=sharing
 
 This affords me the ability to do 2 things: 1). I have budgeted a new, <$15 kitchen appliance each week. 2). I can donate extra change to charities. Some of my favorite are the following: 
--https://www.feedingamerica.org/
--https://www.mealsonwheelsamerica.org/
--https://www.homelessshelterdirectory.org/contact.html
+- https://www.feedingamerica.org/
+- https://www.mealsonwheelsamerica.org/
+- https://www.homelessshelterdirectory.org/contact.html
 
 ## Physical Well-being
 These times encourage prepare every meal. Some of my favorite dishes have been the following: 
@@ -81,15 +81,15 @@ It is strange time where everyone, regardless of socio-economic class and age, i
 	As mentioned earlier, I have scheduled regular social-distance walks with friends. Plenty of fellow graduate students remain in the area, and I have enjoyed checking in with them, seeing what new stay-at-home hobbies they have acquired, and hearing how they have adjusted their research plans to make the most of these times. In fact, I have even found new parks in Palo Alto in this way. 
 	Finally, I am connected to a fabulous “off-campus” housing program. We have come together for activities like assembling flower arrangements with Matilde’s Bloombox, starting a book club with “Bad Blood”, and even cooking together through Zoom. Other friends have started some online Catan games. 
 Online activities with your friends: 
--https://matildasbloombox.com/
--https://www.instructables.com/class/Cooking-Class/
--https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/
--https://catanuniverse.com/
+- https://matildasbloombox.com/
+- https://www.instructables.com/class/Cooking-Class/
+- https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/
+- https://catanuniverse.com/
 
 ## Work Well-being
 For work well-being, I’ve established boundaries. I work according to routine hours, and I allow myself plenty breaks. I have allocated a “work-space” that is not in my bedroom. I have inherited a “standing-desk” apparatus, but I have also seen fashion their own out of textbooks or boxes. The daily check-ins with my labmates give us opportunity to check in with each other and share strategies for productivity. My favorite is the “pomodoro method,” which we’ve done while on Zoom. It entails concentrating on a task for 25 minutes, then taking a 5 minute break, and then repeating. 
 	I am an experimentalist graduate student without a lab. What this time affords me is many hours to analyze and interpret data, read papers in my field, and think deeply about my project. These times have also brought to my attention the power and versatility of modeling—about to start attempting some calculations to support my research. 
--https://francescocirillo.com/pages/pomodoro-technique
+- https://francescocirillo.com/pages/pomodoro-technique
 
 ## Areas for Improvement
 These times aren’t easy. Distraction is real. I spend lots of time on social media and news websites, scrolling through headlines, checking the number of new cases everyday, and looking for the curve to level-off. Yet in writing this, I feel very fortunate for the privileges that I have and the ability to make improvements in my lifestyle. I would like to help the efforts against COVID-19—and I’m open to suggestions for how. 
