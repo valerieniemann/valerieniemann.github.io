@@ -18,10 +18,8 @@ Let’s start with the numbers. 188,247 people across the states have been teste
 
 We are in a crisis. What should we do in the time of crisis? We stay informed, we check our confidence vs knowledge levels, and we identify what is inside our individual control. 
 
-![](https://github.com/valerieniemann/valerieniemann.github.io/tree/master/images)
-
 <p align = "center">
- <img src="https://github.com/valerieniemann/valerieniemann.github.io/blob/master/images/rsz_dunningkruger.png"/>
+ <img src="/images/rsz_dunningkruger.png"/>
     <br>
     </p>
 
@@ -30,7 +28,7 @@ This chart portrays some of the responses to these times, especially on the inte
 I’ve identified with each point on this chart in my knowledge of the coronavirus and how it will impact the future. Recently I find myself rolling back and forth between “There’s more to this than I thought” and “Trust me, it’s complicated.” I’m not overly anxious in my day-to-day life, and I’m not a hyper-productive, hyper-performing human-being. Some days I feel lonely and uncertain. I recognize, however, that social-distancing has afforded me edifying lifestyle changes—-and if I can enjoy them, I believe others can too. 
 
 <p align = "center">
- <img src="https://github.com/valerieniemann/valerieniemann.github.io/blob/master/images/rsz_control.jpg"/>
+ <img src="/images/rsz_control.jpg"/>
     <br>
     </p>
 
