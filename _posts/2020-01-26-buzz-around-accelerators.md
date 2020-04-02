@@ -18,7 +18,7 @@ The Buzz Around Accelerators
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unknown to me at the time, synchrotron radiation would become a key experimental component on my quest for developing materials for alternative energy applications. A few months after the physics course, I started to work at the Lawrence Berkeley National Laboratory (LBNL), home to the first particle accelerator ever built. Our group used synchrotron radiation from LBNL’s synchrotron to understand the structure of novel, flexible, thermoelectric materials, for applications such as using human body heat to power medical devices [2]. More recently, I joined a team of researchers to conduct experiments at the European Synchrotron Research Facility in Grenoble, France. Using in-situ X-ray diffraction, we watched reactions involving optically-active, highly-fluorescing materials known as perovskites. These experiments helped study a way that perovskite nanocrystals, a promising yet often unstable material, could be stabilized for use in devices such as next-generation solar cells [3].
 
 <p align = "center">
- <img width="224" height="400" img src="https://github.com/valerieniemann/valerieniemann.github.io/blob/master/images/val_ALS.jpg" alt="dominating_sets_example2"/>
+ <img width="224" height="400" img src="/images/val_ALS.jpg" alt="dominating_sets_example2"/>
     <br>
     <em> At the LBNL Advanced Light Source</em>
 </p>
@@ -35,7 +35,7 @@ The Buzz Around Accelerators
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other solutions involve completely bypassing table-top accelerators to smaller dimensioned systems [15,16]. In fact, Stanford researchers kicked-off 2020 with a prototype “accelerator on a chip”. Their design features IR radiation laser pulses to accelerate electrons through a nanostructured silicon chip. While this design resulted in electrons with energies a fraction of those achieved in traditional particle accelerators, it served as a proof-of-concept towards accelerator miniaturization [16]. Even further, the team has set a goal to achieve electrons with 1 MeV of energy by the end of the year. This is the benchmark for use in research and medical purposes. All in all, their work demonstrates a step towards shrinking particle accelerators, which can unlock information to address climate change, genetic disorders, and beyond.
 
 <p align = "center">
- <img src="https://github.com/valerieniemann/valerieniemann.github.io/blob/master/images/acc_on_chip_2020.jpg"/>
+ <img src="/images/acc_on_chip_2020.jpg"/>
     <br>
     <em> Synchrotron on a chip: A. Device schematic B. Optimization problem C. SEM image with overlaid accelerating fields simulation [16] </em>
 </p>
