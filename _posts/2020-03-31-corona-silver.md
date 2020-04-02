@@ -18,6 +18,8 @@ Let’s start with the numbers. 188,247 people across the states have been teste
 
 We are in a crisis. What should we do in the time of crisis? We stay informed, we check our confidence vs knowledge levels, and we identify what is inside our individual control. 
 
+![](https://github.com/valerieniemann/valerieniemann.github.io/tree/master/images)
+
 <p align = "center">
  <img src="https://github.com/valerieniemann/valerieniemann.github.io/blob/master/images/rsz_dunningkruger.png"/>
     <br>
