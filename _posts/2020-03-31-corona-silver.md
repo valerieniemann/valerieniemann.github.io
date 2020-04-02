@@ -23,7 +23,7 @@ We are in a crisis. What should we do in the time of crisis? We stay informed, w
     <br>
     </p>
 
-This chart portrays some of the responses to these times, especially on the internet: in the headlines, tweets, Facebook posts, and addresses to the nation. The uncertainty elicits various responses. There are people who feel paralyzed with the confirmed-case counts; there are ambitious professionals counting every minute they can put towards their work instead of commute. There are still people, even leaders, in denial of the severity of this situation. 
+This chart portrays some of the responses to these times, especially on the internet: in the headlines, tweets, Facebook posts, and White House briefings. The uncertainty elicits various responses. There are people who feel paralyzed with the confirmed-case counts; there are ambitious professionals counting every minute they can put towards their work instead of commute. There are still people, even leaders, in denial of the severity of this situation. 
 
 I’ve identified with each point on this chart in my knowledge of the coronavirus and how it will impact the future. Recently I find myself rolling back and forth between “There’s more to this than I thought” and “Trust me, it’s complicated.” I’m not overly anxious in my day-to-day life, and I’m not a hyper-productive, hyper-performing human-being. Some days I feel lonely and uncertain. I recognize, however, that social-distancing has allowed me to make edifying lifestyle changes—-and if I can enjoy them, I believe others can too. 
 
@@ -38,7 +38,7 @@ Understanding what I can control has led me to make positive steps towards well-
 
 The research groups that I have recently joined encourage open mental health discussions.  Last quarter, we invited the mental health professionals at the Stanford Counseling & Psychological Services (CAPS) to present at our group meeting. They provided resources on how to handle stress and anxiety and prevent procrastination. In the past couple weeks, I have taken a deeper look into the resources they provided. I’ve found the social distancing to be the opportune time to think about stress and put new habits into practice for mental wellness. 
  
-Apart from taking guidance from these resources, I have been able to understand the conditions for focus and good work. I find that I am most productive first thing in the morning, and after 1-2 PM my productivity wanes. This has been a great time to schedule meetings and “social-distancing walks.” Productivity rises again after dinnertime around 6 or 7 and lasts into the mature evening. Identifying these times of productivity has enabled me to establish a routine—which mitigates my thoughts of “oh I could be doing something better right now, I could be more productive, look at all the productive people on the internet, blah blah.”
+Apart from taking guidance from these resources, I have been able to understand the conditions for focus and good work. I find that I am most productive first thing in the morning, and after 1-2 PM my productivity wanes. This has been a great time to schedule meetings and “social-distancing walks.” Productivity rises again after dinnertime around 6 or 7 and lasts into the mature evening. Identifying these times of productivity has enabled me to establish a routine—which reduces negative thought patterns, such as “Oh I could be doing something better right now, I could be more productive, look at all the productive people on the internet, blah blah.”
 
 Finally, I have identified a few sharing libraries in my neighborhood, picking up and dropping off some books after a gentle swab with a disinfectant towel. I’ve enjoyed reading—it’s something I’ve sorely missed in the midst of packed terms in grad school. 
 
@@ -61,7 +61,7 @@ With reducing my expenditures, I have a good margin to donate to charities. Some
 - [This directory](https://www.homelessshelterdirectory.org/contact.html) can be used to find homeless shelters in your area. 
 
 ## Physical Well-being
-Staying at home has allowed me to try making new dishes. Some of my favorites have been the following: 
+Staying at home has allowed me to try making new, healthy dishes. Some of my favorites have been the following: 
 - [Baked Sweet Potato with Moroccan Lentils](https://www.acouplecooks.com/moroccan-sweet-potatoes-with-lemon-tahini-dressing/)
 - [Seared Tilapia with Spiralized Zucchini](https://www.womansday.com/food-recipes/food-drinks/recipes/a54833/seared-tilapia-with-spiralized-zucchini-recipe/)
 - [Venezuelan Arepas with Chicken and Avocado](https://www.panningtheglobe.com/reina-pepiada-arepas-chicken-avocado/)
@@ -69,16 +69,16 @@ Staying at home has allowed me to try making new dishes. Some of my favorites ha
 
 Palo Alto has been little parks sprinkled throughout the neighborhoods. In the direction of the Pacific, the sprawling suburbs turn into nature preserves. Every few days, I have been visiting a different preserve by bike and then hiking to views of the Bay and the Pacific Ocean. My goal is to bike to Half-Moon Bay after training over the next couple weeks. 
 
-In addition, I have tried out some online exercise classes, especially from studios in the Bay Area. These include: 
-- [Yogasource](https://yogasource.com/)  
-- [Touchstone climbing](https://touchstoneclimbing.com/fitness-live/) for yoga courses
+In addition, I have tried out some online exercise classes. These include: 
+- [Yogasource](https://yogasource.com/) which occasionally has free classes
+- [Touchstone climbing](https://touchstoneclimbing.com/fitness-live/) for free yoga courses
 - [Les Mills](https://watch.lesmillsondemand.com/free-content?fbclid=IwAR0rgaloxIREDMeUdtENIhC2yQDj2UDp2hF9fo4g79cFC-CSEnTajxQCmKk), offering diverse exercise courses on a free month-long trial. 
 
 ## Relational Well-being
 It is strange time where everyone is doing pretty much the same thing. This means all of my immediate and distant relatives and friends are at their home and plenty available for a call. 
 This goes for my research group as well. Checking in with my labmates and chatting in between spans of working, helps develop those relationships in this time. It means a lot to me to be in this together. 
 As mentioned earlier, I have scheduled regular social-distance walks with friends. We typically walk around campus or in neighborhoods and maintain a distance of 6 feet. Plenty of fellow graduate students remain in the area, and I have enjoyed checking in with them, seeing what new stay-at-home hobbies they have acquired, and hearing how they have adjusted their research plans to make the most of these times. In fact, I have even found new parks in Palo Alto in this way. 
-Finally, I am connected to a fabulous “off-campus” housing program at Stanford. We have come together for activities like assembling flower arrangements with Matilda’s Bloombox, starting a book club with “Bad Blood”, and even cooking together through Zoom. Other friends of mine outside of this program have started some online games through Jackbox and Catan. 
+Finally, I am connected to a fabulous “off-campus” housing program at Stanford. We have come together for activities like assembling flower arrangements with Matilda’s Bloombox, starting a book club reading *Bad Blood*, and even cooking together through Zoom. Other friends of mine outside of this program have started some online games through Jackbox and Catan. 
 Online activities to do with friends: 
 - [Matilda's Bloombox](https://matildasbloombox.com/) delivers flowers from local farms and growers and then provides information on how to arrange them. 
 - [Learn how to cook with friends](https://www.instructables.com/class/Cooking-Class/) with this free-online instructable. 
@@ -86,16 +86,20 @@ Online activities to do with friends:
 - [Play Catan online](https://catanuniverse.com/) and don't worry about preserving your game on a tabletop if you need to take a pause. 
 
 ## Work Well-being
-For work well-being, I’ve established boundaries. I work according to routine hours, and I allow myself plenty breaks. I have allocated a “work-space” that is not in my bedroom. I have inherited a “standing-desk” apparatus, but I have also seen fashion their own out of textbooks or boxes. The daily check-ins with my labmates give us opportunity to share strategies for productivity. My favorite is the “pomodoro method,” which we’ve done while on Zoom. It entails concentrating on a task for 25 minutes, then taking a 5 minute break, and then repeating. 
+For work well-being, I’ve established boundaries. I work according to routine hours, and I allow myself plenty breaks. I have allocated a “work-space” that is not in my bedroom. I have inherited a “standing-desk” apparatus, but I have also seen fashion their own out of textbooks or boxes. The daily check-ins with my labmates give us opportunity to share strategies for productivity. My favorite is the “pomodoro method,” which we’ve done together while on Zoom. It entails concentrating on a task for 25 minutes, then taking a 5 minute break, and then repeating. Every 2-3 cycles, you take a larger break. 
 
 I am an experimentalist graduate student without a lab. What the shelter-in-place affords me is time to analyze and interpret data, read papers in my field, and think deeply about my project. In addition, I have realized the power and versatility of modeling—so I plan to attempt some modeling and calculations to support my research projects. 
 
-- [Pomodoro method](https://francescocirillo.com/pages/pomodoro-technique) to maximize productivity. 
+Others have generated cool ideas to learn how to code. For example, Stanford is offering a free, online coding course as a part of community service. Geared towards all people of little-to-no coding experience, it is the perfect opportunity to acquire a new skill from the safety of your home. 
+
+- [Pomodoro method](https://francescocirillo.com/pages/pomodoro-technique) to break up work into smaller, easier chunks. 
+- [Stanford Code-In-Place](https://compedu.stanford.edu/codeinplace/announcement/) is a free online coding course, no experience necessary, and a great opportunity to learn a new skill. 
 
 ## Areas for Improvement
-It is difficult to keep from distraction. I spend time on social media and news websites, scrolling through headlines, checking the number of new cases everyday, and anxiously waiting for the coronavirus curve to level. Even so, I feel fortunate to 
-With this gratitude, I want to give back to my online and geographical communities. One major way is through solidarity in our social distancing-- I would like to know more about you. How has your life has been impacted during this time? Are there positive habits you've developed?  
+Distractions still lurk at every corner of my apartment. When I encounter a difficult problem, I start noticing some grit on the living room table, or remember that I had been meaning to vacuum. The most nefarious distractions are open e-mail or social media tabs on my browser. These tabs lead to black holes of time--hours of scrolling through headlines, checking the number of new cases everyday, and anxiously waiting for the coronavirus curve to level. I snap out of the coronavirus-update-mongering trance to a list of unfinished tasks. 
 
-I am still brainstorming other ways to combat COVID-19, whether it is through charity donations, emotional-support, cases data-analysis, etc. Have you found ways to contribute to efforts against COVID-19? What are ways we can help as we shelter-in-place? 
+This is the part when I try to exercise gratitude. I identify the privilege that I have to be part of such a wonderful program with great labmates, advisors, and cohort-mates, during this uneasy time. With this gratitude, I want to give back to my online and geographical communities. One major way is through solidarity in our social distancing-- I would like to know more about you. How has your life has been impacted during this time? Are there positive habits you've developed?  
+
+I am still brainstorming other ways to combat COVID-19, whether it is through charity donations, support groups, data-analysis, etc. Have you found ways to contribute to efforts against COVID-19? What are ways we can help as we shelter-in-place? 
 
 
