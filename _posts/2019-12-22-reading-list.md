@@ -61,6 +61,8 @@ Perhaps my favorite scene is when Dagny Taggart pilots a plane to chase down ren
 ## *Shantaram* by Gregory David Roberts 
 
 Based on a true story, this novel features a heroin addict, turned bank-robber, turned inmate in an Australian jail, who broke out and escaped to India. Hiding out in Mumbai, he learned Marathi, worked for the mafia, and appeared in a couple Bollywood films. Eventually he participated in guerilla wars in Afghanistan. When his mafia boss died, he became a freelancing smuggler, which led to his capture in Germany. He began writing *Shantaram* while finishing his prison sentence in Australia, where 300-400 paged manuscripts were destroyed *twice* by prison guards. This work is truly a slice of humanity to experience. 
+
 *Based on a true story* -- 
+
 I am ever-so-curious to find out to what extent. This work reads like an action novel, but it is based on the life events of author Gregory David Roberts. Apparently I am not alone. Many have posed the question to Roberts, with the response: "Some experiences from my life are described pretty much as they happened, and others are created narratives, informed by my experience. I wanted to write two or three novels on some bare elements from my life, allowing me to explore the themes that interested me, while keeping the narrative immediate by anchoring it to some of my real experiences. They’re novels, not autobiographies, and all of the characters and dialogue is created. It doesn’t matter how much of it is true or not to me, it’s how true they are to all of us, and to our common humanity." 
 
