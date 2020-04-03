@@ -77,8 +77,11 @@ In addition, I have tried out some online exercise classes. These include:
 ## Relational Well-being
 It is strange time where everyone is doing pretty much the same thing. This means all of my immediate and distant relatives and friends are at their home and plenty available for a call. 
 This goes for my research group as well. Checking in with my labmates and chatting in between spans of working, helps develop those relationships in this time. It means a lot to me to be in this together. 
-As mentioned earlier, I have scheduled regular social-distance walks with friends. We typically walk around campus or in neighborhoods and maintain a distance of 6 feet. Plenty of fellow graduate students remain in the area, and I have enjoyed checking in with them, seeing what new stay-at-home hobbies they have acquired, and hearing how they have adjusted their research plans to make the most of these times. In fact, I have even found new parks in Palo Alto in this way. 
+
+As previously mentioned, I have scheduled regular social-distance walks with friends. We typically walk around campus or in neighborhoods and maintain a distance of 6 feet. Plenty of fellow graduate students remain in the area, and I have enjoyed checking in with them, seeing what new stay-at-home hobbies they have acquired, and hearing how they have adjusted their research plans to make the most of these times. In fact, I have even found new parks in Palo Alto in this way. 
+
 Finally, I am connected to a fabulous “off-campus” housing program at Stanford. We have come together for activities like assembling flower arrangements with Matilda’s Bloombox, starting a book club reading *Bad Blood*, and even cooking together through Zoom. Other friends of mine outside of this program have started some online games through Jackbox and Catan. 
+
 Online activities to do with friends: 
 - [Matilda's Bloombox](https://matildasbloombox.com/) delivers flowers from local farms and growers and then provides information on how to arrange them. 
 - [Learn how to cook with friends](https://www.instructables.com/class/Cooking-Class/) with this free-online instructable. 
@@ -86,19 +89,19 @@ Online activities to do with friends:
 - [Play Catan online](https://catanuniverse.com/) and don't worry about preserving your game on a tabletop if you need to take a pause. 
 
 ## Work Well-being
-For work well-being, I’ve established boundaries. I work according to routine hours, and I allow myself plenty breaks. I have allocated a “work-space” that is not in my bedroom. I have inherited a “standing-desk” apparatus, but I have also seen fashion their own out of textbooks or boxes. The daily check-ins with my labmates give us opportunity to share strategies for productivity. My favorite is the “pomodoro method,” which we’ve done together while on Zoom. It entails concentrating on a task for 25 minutes, then taking a 5 minute break, and then repeating. Every 2-3 cycles, you take a larger break. 
+For work well-being, I’ve established boundaries. I work according to routine hours, and I allow myself plenty breaks. I have allocated a “work-space” that is not in my bedroom. I have inherited a “standing-desk” apparatus, but my labmates have also fashioned their own out of textbooks or boxes. The daily check-ins with my labmates provides an opportunity to share strategies for productivity. My favorite is the “pomodoro method,” which we’ve done together while on Zoom. It entails concentrating on a task for 25 minutes, then taking a 5 minute break, and then repeating. Every 2-3 cycles, we take a larger break. 
 
 I am an experimentalist graduate student without a lab. What the shelter-in-place affords me is time to analyze and interpret data, read papers in my field, and think deeply about my project. In addition, I have realized the power and versatility of modeling—so I plan to attempt some modeling and calculations to support my research projects. 
 
 Others have generated cool ideas to learn how to code. For example, Stanford is offering a free, online coding course as a part of community service. Geared towards all people of little-to-no coding experience, it is the perfect opportunity to acquire a new skill from the safety of your home. 
 
 - [Pomodoro method](https://francescocirillo.com/pages/pomodoro-technique) to break up work into smaller, easier chunks. 
-- [Stanford Code-In-Place](https://compedu.stanford.edu/codeinplace/announcement/) is a free online coding course, no experience necessary, and a great opportunity to learn a new skill. 
+- [Stanford Code-In-Place](https://compedu.stanford.edu/codeinplace/announcement/) is a free online coding course, no experience necessary. 
 
 ## Areas for Improvement
-Distractions still lurk at every corner of my apartment. When I encounter a difficult problem, I start noticing some grit on the living room table, or remember that I had been meaning to vacuum. The most nefarious distractions are open e-mail or social media tabs on my browser. These tabs lead to black holes of time--hours of scrolling through headlines, checking the number of new cases everyday, and anxiously waiting for the coronavirus curve to level. I snap out of the coronavirus-update-mongering trance to a list of unfinished tasks. 
+Distractions still lurk at every corner of my apartment. When I encounter a difficult problem, I start noticing some grit on the living room table, or I remember that I had been meaning to vacuum. The most nefarious distractions are open e-mail or social media tabs on my browser. These tabs are black holes for time. One click leads to hours of scrolling through headlines, checking the number of new cases everyday, and waiting for the coronavirus curve to level. I snap out of the coronavirus-update-mongering trance to a list of unfinished tasks. 
 
-This is the part when I try to exercise gratitude. I identify the privilege that I have to be part of such a wonderful program with great labmates, advisors, and cohort-mates, during this uneasy time. With this gratitude, I want to give back to my online and geographical communities. One major way is through solidarity in our social distancing-- I would like to know more about you. How has your life has been impacted during this time? Are there positive habits you've developed?  
+This is the part when I try to exercise gratitude instead of giving way to fear. I identify the privilege that I have to be part of such a wonderful program with great labmates, advisors, and cohort-mates, during this uneasy time. With this gratitude, I want to give back to my online and geographical communities. One major way is through solidarity in our social distancing-- I would like to know more about you. How has your life has been impacted during this time? Are there positive habits you've developed?  
 
 I am still brainstorming other ways to combat COVID-19, whether it is through charity donations, support groups, data-analysis, etc. Have you found ways to contribute to efforts against COVID-19? What are ways we can help as we shelter-in-place? 
 
