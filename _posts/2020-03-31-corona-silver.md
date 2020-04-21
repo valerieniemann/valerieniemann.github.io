@@ -67,7 +67,7 @@ Staying at home has allowed me to try making new, healthy dishes. Some of my fav
 - [Venezuelan Arepas with Chicken and Avocado](https://www.panningtheglobe.com/reina-pepiada-arepas-chicken-avocado/)
 - [Homemade Boba Tea](https://healthynibblesandbits.com/how-to-make-bubble-tea/)
 
-Palo Alto has been little parks sprinkled throughout the neighborhoods. In the direction of the Pacific, the sprawling suburbs turn into nature preserves. Every few days, I have been visiting a different preserve by bike and then hiking to views of the Bay and the Pacific Ocean. My goal is to bike to Half-Moon Bay after training over the next couple weeks. 
+Palo Alto has parks sprinkled throughout the neighborhoods. In the direction of the Pacific, the sprawling suburbs turn into nature preserves. Every few days, I have been visiting a different preserve by bike and then hiking to views of the Bay and the Pacific Ocean. My goal is to bike to Half-Moon Bay after training over the next couple weeks. 
 
 In addition, I have tried out some online exercise classes. These include: 
 - [Yogasource](https://yogasource.com/) which occasionally has free classes
@@ -75,7 +75,7 @@ In addition, I have tried out some online exercise classes. These include:
 - [Les Mills](https://watch.lesmillsondemand.com/free-content?fbclid=IwAR0rgaloxIREDMeUdtENIhC2yQDj2UDp2hF9fo4g79cFC-CSEnTajxQCmKk), offering diverse exercise courses on a free month-long trial. 
 
 ## Relational Well-being
-It is strange time where everyone is doing pretty much the same thing. This means all of my immediate and distant relatives and friends are at their home and plenty available for a call. 
+It is strange time when everyone is doing pretty much the same thing. This means all of my immediate and distant relatives and friends are at home, plenty available for a call. 
 This goes for my research group as well. Checking in with my labmates and chatting in between spans of working, helps develop those relationships in this time. It means a lot to me to be in this together. 
 
 As previously mentioned, I have scheduled regular social-distance walks with friends. We typically walk around campus or in neighborhoods and maintain a distance of 6 feet. Plenty of fellow graduate students remain in the area, and I have enjoyed checking in with them, seeing what new stay-at-home hobbies they have acquired, and hearing how they have adjusted their research plans to make the most of these times. In fact, I have even found new parks in Palo Alto in this way. 
