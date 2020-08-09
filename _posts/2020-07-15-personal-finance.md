@@ -30,5 +30,25 @@ The math is similar for alcohol beverages, which can range $3-$15 per drink. One
 I had limited the alcoholic beverages and eating-out -- but I had a hard time reducing the coffee intake. My strategy was to delete any apps for cafes, stock my pantry with interesting coffee flavors, and load my fridge with an interesting creamer or two (which together costed around $10 per month instead of $60). Taking this into account but still treating myself occasionally, I can save $640 per year. 
 
 This is how saving works -- it is the small decisions in the daily moments that add up over time.
-This is not to say that you should stop going out for coffee, drinks, and food, especially as it kindles friendships. It is to say that we should be mindful of the amount and frequency that we spend. By practicing moderation, we can effectively give ourselves a raise in salary. It may seem difficult, but there are practical ways to get started: 
+This is not to say that you should stop going out for coffee, drinks, and food (although you can alway suggest economical alternatives!). It is to say that we should be mindful of the amount and frequency that we spend. By practicing moderation, we can effectively give ourselves a raise in salary. It may seem difficult, but there are practical ways to get started: 
+
+-1. Look at your bank account information and breakdown of costs. Under what category do you spend the most money? I've known students who did not like to check their bank account, but avoidance will not solve this problem. Find where you spend the most
+-2. Track all of your transactions in your own spreadsheet ([such as this one!](https://docs.google.com/spreadsheets/d/1Nl-eRuL6yISxyTTURjdU6V54t92MiJBlkQZPuXCLlvg/edit?usp=sharing). This makes you conscious of each amount you spend. 
+-3. Delete food/beverage apps that make it too convenient to spend money. 
+-4. Learn how to cook your own meals & meal prep. 
+-5. Keep the coupons that come in the mail!
+-6. Ride a bike! This can drastically reduce gas and car maintenance costs (if you have one). It's also better for the environment!
+-7. Suggest "free" activities when hanging out with friends. Go for a walk or hike, have a picnic, 
+
+## Slightly larger steps to savings
+- Get a side hustle
+- Find an apartment with cheaper rent
+- Sell what you don't use anymore
+- Apply to additional fellowships/scholarships
+
+## Financial commitments
+- Student loans
+- Retirement
+- Passive investing 
+
 
