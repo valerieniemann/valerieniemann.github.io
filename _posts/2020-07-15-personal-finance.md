@@ -32,14 +32,14 @@ Coming to grad school, I had limited the alcoholic beverages and eating-out -- b
 This is how saving works -- it is the small decisions in the daily moments that add up over time.
 This is not to say that you should stop going out for coffee, drinks, and food (although you can alway suggest economical alternatives!). It is to say that we should be mindful of the amount and frequency that we spend. By practicing moderation, we can effectively give ourselves a raise in salary. It may seem difficult, but there are practical ways to get started: 
 
--1. Look at your bank account online and pay attention to the breakdown of costs. Under what category do you spend the most money? I've known students who did not like to check their bank account, but avoidance will not solve this problem. Find where you spend the most, and take steps to limit the spending./
--2. Track all of your transactions in your own spreadsheet ([such as this one!](https://docs.google.com/spreadsheets/d/1Nl-eRuL6yISxyTTURjdU6V54t92MiJBlkQZPuXCLlvg/edit?usp=sharing). This makes you conscious of each amount you spend./
--3. Delete food/beverage apps that make it too convenient to drop a few bucks./  
--4. Learn how to cook your own meals & meal prep./ 
--5. Keep the coupons that come in the mail./ 
--6. Ride a bike! This can drastically reduce gas and car maintenance costs (if you have one). It's also better for the environment./ 
--7. Suggest "free" activities when hanging out with friends. Go for a walk or hike, have a picnic, or try some online workout videos. What kinds of crafts can you do with what you have? What creative recipes can you make with the food items in your pantry?/ 
--8. Make sure you *cancel* any *unused subscriptions*. This one gets me all the time. Whether it's a streaming service that you can live without or a site that has a textbook you used for a class, make sure you are not getting billed for a monthly service that you do not use! It is best to keep a running list of your online accounts./
+-1. Look at your bank account online and pay attention to the breakdown of costs. Under what category do you spend the most money? I've known students who did not like to check their bank account, but avoidance will not solve this problem. Find where you spend the most, and take steps to limit the spending.  
+-2. Track all of your transactions in your own spreadsheet ([such as this one!](https://docs.google.com/spreadsheets/d/1Nl-eRuL6yISxyTTURjdU6V54t92MiJBlkQZPuXCLlvg/edit?usp=sharing). This makes you conscious of each amount you spend.  
+-3. Delete food/beverage apps that make it too convenient to drop a few bucks.   
+-4. Learn how to cook your own meals & meal prep.   
+-5. Keep the coupons that come in the mail.   
+-6. Ride a bike! This can drastically reduce gas and car maintenance costs (if you have one). It's also better for the environment.   
+-7. Suggest "free" activities when hanging out with friends. Go for a walk or hike, have a picnic, or try some online workout videos. What kinds of crafts can you do with what you have? What creative recipes can you make with the food items in your pantry?   
+-8. Make sure you *cancel* any *unused subscriptions*. This one gets me all the time. Whether it's a streaming service that you can live without or a site that has a textbook you used for a class, make sure you are not getting billed for a monthly service that you do not use! It is best to keep a running list of your online accounts.  
 
 ## Slightly larger steps to savings
 - Get a side hustle
