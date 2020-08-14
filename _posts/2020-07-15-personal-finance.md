@@ -14,7 +14,7 @@ Don't wait any longer to think about personal finances!
 Personal Finance for Graduate Students
 ------
 
-Any first-year graduate student will tell you that time is a scarce commodity. They might say the same for money. PhD stipends can be meager and do not seem to be enough to save, and certainly not enough to take-on large financial commitments.*
+Any first-year graduate student will tell you that time is a scarce commodity. They might say the same for money. PhD stipends do not seem to be enough to save and certainly not enough to take-on large financial commitments.*
 
 Finishing my first-year classes felt like bringing my head up from underwater, and I could see the rest of the world clearly. As soon as I had time, I could think about money. 
 
@@ -24,7 +24,7 @@ A lot of what I have to say finds its root in [PF for PhDs](pfforphds.com) -- Dr
 
 ## Small steps to savings
 
-Personal finance is an area where small steps lead to big results. I had a habit of going to cafes and ordering coffee -- especially during the boredom of working from home during COVID-19. But let's look at the math. Going to Starbucks, for example, just 3x a week, means spending $15 a week. If I do that every week in a year, I've spent $780. In the moment one doesn't think about this. Each separate moment that I'm craving Starbucks or simply a place to walk with a reward seems independent and inconsequential. Cumulatively, they comprise 1/3 of my monthly income after a year. (Side note: this irrational behavior is another justification for the relatively new field of behavioral economics.)
+Personal finance is an area where small steps lead to big results. I had a habit of going to cafes and ordering coffee -- especially during the boredom of working from home during COVID-19. But let's look at the math. Going to Starbucks, for example, just 3x a week, means spending $15 a week. If I do that every week in a year, I've spent $780. In the moment one doesn't think about this. Each separate moment that I'm craving Starbucks, or simply a place to walk with a reward, seems independent and inconsequential. Cumulatively, they comprise 1/3 of my monthly income after a year. (Side note: this irrational behavior is another justification for the relatively new field of behavioral economics.)
 The math is similar for alcohol beverages, which can range $3-$15 per drink. One fancy cocktail per week ends up taking up another 1/3 of my monthly income after a year. Add going out for food once per week, and that's a whole month's income spent on excessive coffee, alcohol, and food. 
 
 Coming to grad school, I had limited the alcoholic beverages and eating-out -- but I had a hard time reducing the coffee intake. My strategy was to delete any apps for cafes, stock my pantry with interesting coffee flavors, and load my fridge with an interesting creamer or two (which together costed around $10 per month instead of $60). Taking this into account but still treating myself occasionally, I can save $640 per year. 
@@ -48,14 +48,14 @@ This is not to say that you should stop going out for coffee, drinks, and food (
 ####
 *8.* Make sure you *cancel* any *unused subscriptions*. This one gets me all the time. Whether it's a streaming service that you can live without or a site that has a textbook you used for a class, make sure you are not getting billed for a monthly service that you do not use! It is best to keep a running list of your online accounts.  
 
-The small steps we discussed can be made within the confines of your current daily schedule. Already you could be saving over $1000 per year just by selecting a couple of the recommendations and committing to them. Now we will talk about actions that may involve some time and/or risk -- but maybe you're up for it for more saving/spending capacity. 
+The small steps we discussed can be made within the confines of your current daily schedule. Already you could be saving over $1000 per year by selecting a couple of the recommendations and committing to them. Now we will talk about actions that may involve some time and/or risk -- but maybe you're up for it for more saving/spending capacity. 
 
 ## Slightly larger steps to savings
 
 We will be talking shortly about reaching financial goals. If you have a specific goal in mind within graduate school (mine is to pay off my undergraduate student loans), then it might be worth investigating ways to earn extra money on the side. If you're just hoping to have more savings or spendings, these suggestions may also be of use to you. 
 ####
 *1.* Get a side hustle. On campus there are numerous opportunities to earn a little extra money. You do have to decide if your side hustle is worth your precious and finite time. Some rewarding side hustles that could aid in your professional, academic, or research goals include the following:
-- Tutoring. Learning how to communicate fundamental conceps is a great skill to hone, and you can develop 
+- Tutoring. Learning how to communicate fundamental conceps is a great skill to hone. 
 - Mentoring. Perhaps your life experience up to now has been ripe with cool opportunities. Those who are younger than you could learn from your life experience, and perhaps follow similar paths. You can learn mentoring skills and get paid at the same time -- sweet deal!
 - Becoming a resident assistant (RA) or a community assistant (CA) for graduate school housing. This usually involves planning fun events for your residents. It does not take up too much time but is well-subsidized. Take advantage of this leadership opportunity that provides a nice bonus on the side!
 ####
@@ -66,8 +66,8 @@ We will be talking shortly about reaching financial goals. If you have a specifi
 *4* Apply to additional fellowships/scholarships. This is always an edificial process. I like to say that no matter what your profession, you will need to convince others that what you say has value. While applying to fellowships and scholarships can be a huge time commitment with a smaller success rate, the more you apply to, the easier it gets, and the higher your chances of securing some extra funding. 
 
 ## Financial commitments
-- Student loans
+- Student loans: My personal goal during graduate school is to pay off student loans. I watched how interest piled up on my unpaid, deferred principal after effectively 2 years without paying. This made me realize that paying loans off now means saving money later. Even small amounts at high frequency saves money. Try setting up regular payments with your loan provider. Often they provide calculators for your budget so that you can optimize those monthly payments to your financial situation. 
 - Retirement
-- Passive investing 
+- Passive investing
 
 
