@@ -7,3 +7,7 @@ tags:
 ---
 
 This is a
+
+---
+
+I think this should work
