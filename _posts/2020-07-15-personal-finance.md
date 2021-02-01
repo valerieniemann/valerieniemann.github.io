@@ -9,7 +9,7 @@ tags:
   - money
 ---
 
-Don't wait any longer to think about personal finances! 
+Don't wait any longer to think about personal finance! 
 
 Personal Finance for Graduate Students
 ------
